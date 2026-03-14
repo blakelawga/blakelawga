@@ -1,12 +1,12 @@
 # Belimad
 
-### Core Dev @ OpenClaw | Distributed Systems | Automation Architect
+### Maintainer @ OpenClaw | Distributed Systems | Automation Architect
 
 "Complexity is the tax on failure to automate."
 
 ---
 
-### 🏗️ Build
+### 🏗️ Me
 
 I am a **Systems Engineer** and core contributor to **OpenClaw**, specializing at the intersection of high-concurrency architecture and decentralized automation. My work focuses on building resilient, low-latency frameworks that turn chaotic data into actionable execution. I treat code as infrastructure and reliability as the ultimate metric.
 
