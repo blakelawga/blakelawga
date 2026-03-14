@@ -53,7 +53,6 @@ I am a **Systems Engineer** and core contributor to **OpenClaw**, specializing a
 ---
 
 ### 🦞 $LOBSTER Miniproject 
-``` Hrx3KNqvg9JEA4hA7qoPVjcLFCKGkh5Z2qUmmPYCzuFb```
 
 coming soon...
 
