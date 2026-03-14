@@ -52,11 +52,8 @@ I am a **Systems Engineer** and core contributor to **OpenClaw**, specializing a
 
 ---
 
-### 🦞 $LOBSTER Protocol
-
-* **Shell-Hardened Logic:** Architecting systems with a carapace-grade defense layer—tougher than your average crustacean.
-* **Deep-Sea Liquidity:** Navigating high-pressure environments with blue-blooded precision and zero-slip execution.
-* **Snappy Iteration:** Optimized for rapid-fire deployment. If the code isn't pinch-perfect, we don't ship it.
+### 🦞 $LOBSTER Miniproject
+coming soon...
 
 ---
 > **"Manual intervention is a bug. Autonomy is the feature."**
