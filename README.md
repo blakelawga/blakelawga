@@ -54,6 +54,7 @@ I am a **Systems Engineer** and core contributor to **OpenClaw**, specializing a
 
 ### 🦞 $LOBSTER Miniproject
 coming soon...
-[https://ibb.co/TMTh5pLR](https://i.ibb.co/B2PsRdNj/Screenshot-2026-03-14-at-11-48-04-pm.webp)
+https://i.ibb.co/CKMNNrkp/image.png
+
 ---
 > **"Manual intervention is a bug. Autonomy is the feature."**
