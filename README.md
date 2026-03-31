@@ -30,10 +30,9 @@ I am a **Systems Engineer** and core contributor to **OpenClaw**, specializing a
 ### 📊 Github Stats
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Belimad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Belimad's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Belimad&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Belimad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Belimad's GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Belimad&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
-
 ---
 
 ### 🧬 System Intelligence
