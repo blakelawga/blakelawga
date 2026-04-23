@@ -1,6 +1,6 @@
-# Belimad
+# Blake
 
-### Maintainer @ OpenClaw | Distributed Systems | Automation Architect
+### Engineer @ Kalshi | Distributed Systems | Real-Time Trading Architect
 
 "Complexity is the tax on failure to automate."
 
@@ -8,11 +8,11 @@
 
 ### 🏗️ Me
 
-I am a **Systems Engineer** and core contributor to **OpenClaw**, specializing at the intersection of high-concurrency architecture and decentralized automation. My work focuses on building resilient, low-latency frameworks that turn chaotic data into actionable execution. I treat code as infrastructure and reliability as the ultimate metric.
+I am a **Systems Engineer** at **Kalshi**, specializing at the intersection of high-concurrency architecture and real-time event markets. My work focuses on building resilient, ultra-low-latency infrastructure that turns live market data into reliable, high-stakes execution. I treat code as infrastructure and reliability as the ultimate metric.
 
-- **Current Focus:** Optimizing OpenClaw’s core engine and horizontal scaling.
+- **Current Focus:** Scaling Kalshi’s core matching engine and horizontal platform infrastructure.
 - **Philosophy:** Stateless logic, stateful impact.
-- **Core Edge:** Bridging the gap between raw backend protocols and seamless user automation.
+- **Core Edge:** Bridging raw market protocols with seamless, automated trading experiences.
 
 ---
 
@@ -30,28 +30,27 @@ I am a **Systems Engineer** and core contributor to **OpenClaw**, specializing a
 ### 📊 Github Stats
 
 <p align="left">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Belimad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Belimad's GitHub Stats" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Belimad&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Blake&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Blake's GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Blake&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 ---
 
 ### 🧬 System Intelligence
 
-* **Distributed Orchestration:** Expert in designing multi-node clusters and self-healing automation workflows.
-* **OpenClaw Ecosystem:** Driving the development of modular plugins and high-performance execution kernels.
-* **DevOps Culture:** Hardening CI/CD pipelines to ensure zero-downtime deployments for mission-critical tools.
+* **Distributed Orchestration:** Expert in designing multi-node clusters and self-healing real-time trading workflows.
+* **Kalshi Platform:** Driving performance and reliability improvements to the core matching and settlement systems.
+* **DevOps Culture:** Hardening CI/CD pipelines to ensure zero-downtime deployments for live market infrastructure.
 
 ---
 
 ### 📲 Contact
 
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Belimad)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Belimad)
-[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/openclaw)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Blake)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Blake)
 
 ---
 
-### 🦞 $LOBSTER Miniproject 
+### 🦞 $LOBSTER Miniproject
 
 coming soon...
 
