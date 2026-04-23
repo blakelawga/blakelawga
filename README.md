@@ -1,6 +1,6 @@
 # Blake
 
-### Engineer @ Kalshi | Distributed Systems | Real-Time Trading Architect
+### Engineer @ Kalshi | Distributed Systems | Real-Time Polls Architect
 
 "Complexity is the tax on failure to automate."
 
